@@ -1,3 +1,3 @@
 # hello-world
 
-all our dreams can come true if we have the courage to pursuit it;
+hi this is my first project.
